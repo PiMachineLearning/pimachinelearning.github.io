@@ -1,0 +1,3 @@
+[submodule "Sharin"]
+	path = Sharin
+	url = https://github.com/PiMachineLearning/Sharin
