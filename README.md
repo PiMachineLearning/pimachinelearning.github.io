@@ -1,3 +1,5 @@
+# Not used anymore
+The repository has migrated to `https://pimachinelearning.wip.la/simple`, and moved to a VPS instead of GitHub Pages.
 # wheels
 Wheels built by PiMachineLearning as a binary repository
 
